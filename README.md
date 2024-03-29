@@ -13,7 +13,7 @@
 
 ## 📊 My GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=merko&count_private=true)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxbyte-monterrosa&show_icons=true&theme=merko&count_private=true)
 
 ## 💻 Technologies & Tools
 
