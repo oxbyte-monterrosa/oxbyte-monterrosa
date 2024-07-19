@@ -1,9 +1,8 @@
 # Greetings, Code Traveler! I'm Monterrosa 🚀
 
 ## 🌠 About Me
-🐍 Python Enthusiast | 🌐 Full-Stack Developer | ☁ Google Cloud Practitioner
 
-- 🔭 I’m currently working on building scalable web applications using TypeScript, JavaScript, and C#.
+- 🔭 I’m currently working on building scalable web applications using TypeScript, JavaScript.
 - 🌱 Deep diving into cloud architecture and solutions on Google Cloud.
 - 👯 I’m looking to collaborate on open-source projects and innovative tech ideas.
 - 🤔 Exploring new technologies and developing software solutions.
